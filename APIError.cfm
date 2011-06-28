@@ -22,7 +22,7 @@ GetExpressCheckoutDetails.cfm and DoExpressCheckoutPayment.cfm.
     <table class="api">
       <tr>
             <td class="field">
-                Error Type :</td>
+                Error Type[] :</td>
             <td><CFOUTPUT>#responseStruct.errorType#</CFOUTPUT></td>
         </tr>
         <tr>
